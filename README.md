@@ -24,3 +24,7 @@ The analysis utilizes the public dataset: *FitBit Fitness Tracker Data* (availab
 
 # Project Presentation
 You can view the full Capstone presentation directly [Here](Bellabeat_Capstone_Presentation.pdf).
+
+## Presentation Slides
+![](slide1.png)
+![](slide2.png)
