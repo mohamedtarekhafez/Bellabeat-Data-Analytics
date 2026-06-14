@@ -21,3 +21,6 @@ The analysis utilizes the public dataset: *FitBit Fitness Tracker Data* (availab
 * *Activity Tracking:* Analysis showed a strong correlation between daily step counts and calories burned, with peak active hours usually occurring during commuting times and post-work hours.
 * *Sleep Optimization:* A significant portion of users spend time in bed before actually falling asleep; Bellabeat could introduce smart alerts to help optimize sleep schedules.
 * *Marketing Strategy:* Focus marketing campaigns on product features that promote consistency, personalized reminders for daily step goals, and seamless sleep tracking tailored to women's wellness.
+
+# Project Presentation
+You can view the full Capstone presentation directly (Here)(Bellabeat Data Analysis - Case Study - Capstone)
