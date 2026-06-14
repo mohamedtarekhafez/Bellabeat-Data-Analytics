@@ -23,4 +23,4 @@ The analysis utilizes the public dataset: *FitBit Fitness Tracker Data* (availab
 * *Marketing Strategy:* Focus marketing campaigns on product features that promote consistency, personalized reminders for daily step goals, and seamless sleep tracking tailored to women's wellness.
 
 # Project Presentation
-You can view the full Capstone presentation directly [Here](Bellabeat Data Analysis - Case Study - Capstone.pdf)
+You can view the full Capstone presentation directly [Here](Bellabeat_Capstone_Presentation.pdf).
